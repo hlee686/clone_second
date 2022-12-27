@@ -1,0 +1,425 @@
+.leftBar{
+    background-color: #000000;
+    width: 300px;
+    height: 1300px;
+}
+
+.topBar{
+    background: #101010;
+    width: 1200px;
+    height: 80px;
+    position: absolute;
+    top:8px;
+    left:308px;
+}
+
+.topBar span{
+    font-size: 40px;
+    color: white;
+}
+
+.topBar .material-icons{
+    color: white;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.topBar .signUp{
+    color: lightgrey;
+    margin-top: -30px;
+    font-size: 19px;
+    margin-left: 940px;
+}
+
+.topBar .logIn{
+    background-color: white;
+    position: absolute;
+    top: 14px;
+    margin-left: 1040px;
+    width: 122px;
+    height: 52px;
+    border-radius: 25px;
+}
+.mainPart{
+    position: absolute;
+    top: 80px;
+    left: 0px;
+    width: 1200px;
+    height: 1220px;
+    background-color: #1C1C1C;
+}
+.mainPart .focus{
+    font-weight: 750;
+    position: absolute;
+    left: 45px;
+    top: 7px;
+    color: white;
+}
+
+.mainPart .playList{
+    font-weight: 750;
+    position: absolute;
+    left: 45px;
+    top: 450px;
+    color: white;
+}
+
+.musicList{
+    width: 70px;
+    height: 340px;
+    position: absolute;
+    top: 230px;
+    left: 400px;
+    display: flex;
+}
+
+.firstMusic{
+    width: 170px;
+    height: 620x;
+    position: relative;
+}
+
+.first{
+    border: 1px solid black;
+    width: 170px;
+    height: 260px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+}
+
+.first h3{
+    color: white;
+    width: 200px;
+    position: absolute;
+    margin-top: 5px;
+}
+.first p{
+    color: white;
+    width: 240px;
+    position: absolute;
+    margin-top: 30px;
+}
+
+.second{
+    position: absolute;
+    margin-left: 220px;
+    border: 1px solid black;
+    width: 170px;
+    height: 260px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+}
+
+.secondMusic{
+    width: 170px;
+    height: 620x;
+    position: relative;
+}
+
+.second h3{
+    color: white;
+    width: 200px;
+    position: absolute;
+    margin-top: 5px;
+}
+.second p{
+    color: white;
+    width: 240px;
+    position: absolute;
+    margin-top: 30px;
+}
+
+.third{
+    position: absolute;
+    margin-left: 440px;
+    border: 1px solid black;
+    width: 170px;
+    height: 260px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+}
+.thirdMusic{
+    width: 170px;
+    height: 620x;
+    position: relative;
+}
+
+.third h3{
+    color: white;
+    width: 200px;
+    position: absolute;
+    margin-top: 5px;
+}
+.third p{
+    color: white;
+    width: 240px;
+    position: absolute;
+    margin-top: 30px;
+}
+
+.fourth{
+    position: absolute;
+    margin-left: 660px;
+    border: 1px solid black;
+    width: 170px;
+    height: 260px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+}
+
+.fourthMusic{
+    width: 170px;
+    height: 620x;
+    position: relative;
+}
+.fourth h3{
+    color: white;
+    width: 200px;
+    position: absolute;
+    margin-top: 5px;
+}
+.fourth p{
+    color: white;
+    width: 240px;
+    position: absolute;
+    margin-top: 30px;
+}
+.fifth{
+    position: absolute;
+    margin-left: 880px;
+    border: 1px solid black;
+    width: 170px;
+    height: 260px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+}
+
+.fifthMusic{
+    width: 170px;
+    height: 620x;
+    position: relative;
+}
+.fifth h3{
+    color: white;
+    width: 200px;
+    position: absolute;
+    margin-top: 5px;
+}
+.fifth p{
+    color: white;
+    width: 240px;
+    position: absolute;
+    margin-top: 30px;
+}
+
+.sixth{
+    position: absolute;
+    margin-top: -700px;
+    margin-left: 390px;
+    border: 1px solid black;
+    width: 170px;
+    height: 260px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+}
+
+.sixthMusic{
+    width: 170px;
+    height: 620x;
+    position: relative;
+}
+.sixth h3{
+    color: white;
+    width: 200px;
+    position: absolute;
+    margin-top: 5px;
+}
+.sixth p{
+    color: white;
+    width: 240px;
+    position: absolute;
+    margin-top: 30px;
+}
+
+.seventh{
+    position: absolute;
+    margin-top: -700px;
+    margin-left: 612px;
+    border: 1px solid black;
+    width: 170px;
+    height: 260px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+}
+
+.seventhMusic{
+    width: 170px;
+    height: 620x;
+    position: relative;
+}
+.seventh h3{
+    color: white;
+    width: 200px;
+    position: absolute;
+    margin-top: 5px;
+}
+.seventh p{
+    color: white;
+    width: 240px;
+    position: absolute;
+    margin-top: 30px;
+    font-weight: 400;
+}
+
+.eighth{
+    position: absolute;
+    margin-top: -700px;
+    margin-left: 832px;
+    border: 1px solid black;
+    width: 170px;
+    height: 260px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+}
+
+.eighthMusic{
+    width: 170px;
+    height: 620x;
+    position: relative;
+}
+.eighth h3{
+    color: white;
+    width: 200px;
+    position: absolute;
+    margin-top: 5px;
+}
+.eighth p{
+    color: white;
+    width: 240px;
+    position: absolute;
+    margin-top: 30px;
+    font-weight: 400;
+}
+.nineth{
+    position: absolute;
+    margin-top: -700px;
+    margin-left: 1050px;
+    border: 1px solid black;
+    width: 170px;
+    height: 260px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+}
+
+.ninethMusic{
+    width: 170px;
+    height: 620x;
+    position: relative;
+}
+.nineth h3{
+    color: white;
+    width: 200px;
+    position: absolute;
+    margin-top: 5px;
+}
+.nineth p{
+    color: white;
+    width: 240px;
+    position: absolute;
+    margin-top: 30px;
+    font-weight: 400;
+}
+
+.tenth{
+    position: absolute;
+    margin-top: -700px;
+    margin-left: 1272px;
+    border: 1px solid black;
+    width: 170px;
+    height: 260px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+}
+
+.tenthMusic{
+    width: 170px;
+    height: 620x;
+    position: relative;
+}
+.tenth h3{
+    color: white;
+    width: 200px;
+    position: absolute;
+    margin-top: 5px;
+}
+.tenth p{
+    color: white;
+    width: 240px;
+    position: absolute;
+    margin-top: 30px;
+    font-weight: 400;
+}
+
+.img2_1{
+    width: 45px;
+    height: 36px;
+    margin-left: 10px;
+}
+.leftHome span{
+    color: white;
+    position: absolute;
+    margin-left: 12px;
+    margin-top: 12px;
+}
+.img2_2{
+    width: 45px;
+    height: 36px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.leftSearch span{
+    color: white;
+    position: absolute;
+    margin-left: 12px;
+    margin-top: 30px;
+    color: white;
+}
+.img2_3{
+    width: 45px;
+    height: 36px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.leftLib span{
+    color: white;
+    position: absolute;
+    margin-left: 12px;
+    margin-top: 31px;
+    color: white;
+}
+.img2_4{
+    width: 45px;
+    height: 36px;
+    margin-left: 10px;
+    margin-top: 50px;
+}
+.leftPlay span{
+    color: white;
+    position: absolute;
+    margin-left: 12px;
+    margin-top: 60px;
+    color: white;
+}
+.img2_5{
+    width: 45px;
+    height: 36px;
+    margin-left: 10px;
+    margin-top: 12px;
+}
+.leftSongs span{
+    color: white;
+    position: absolute;
+    margin-left: 12px;
+    margin-top: 24px;
+    color: white;
+}
