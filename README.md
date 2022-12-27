@@ -1,15 +1,15 @@
 # Cloning a spotify website using HTML, CSS, and Javascript
 
 ## Used stacks
-<ol>
+<ul>
     <li>HTML5<li>
     <li>CSS3</li>
     <li>Javascript</li>
-<ol>
+<ul>
 
 ## Pages built
-<ol>
+<ul>
     <li>A main page</li>
     <li>Sign up page</li>
     <li>Log in page</li>
-<ol>
+<ul>
