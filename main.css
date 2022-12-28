@@ -44,6 +44,7 @@ body{
     width: 122px;
     height: 52px;
     border-radius: 25px;
+    cursor: pointer;
 }
 .mainPart{
     position: absolute;
@@ -614,4 +615,171 @@ body{
     margin-left: 660px;
     margin-top: 40px;
     border-radius: 30px;
+}
+
+.logInLogo{
+    width: 220px;
+    height: 90px;
+    margin-left: 650px;
+}
+
+.logInLine{
+    background-color: lightgrey;
+    width: 1500px;
+    height: 1.5px;
+    margin-top: 30px;
+}
+
+.loginTo{
+    margin-left: 670px;
+}
+
+.logInFB{
+    background-color: royalblue;
+    margin-left: 580px;
+    width: 400px;
+    height: 52px;
+    border-radius: 20px;
+    position: relative;
+}
+.logInFB span{
+    color: white;
+    position: absolute;
+    margin-top: 12px;
+    margin-left: 10px;
+    font-weight: 800;
+}
+.logInFB img{
+    width: 20px;
+    height: 20px;
+    margin-left: -220px;
+    margin-top: 10px;
+    background-color: white;
+}
+
+.logInAPP{
+    background-color: black;
+    margin-left: 580px;
+    width: 400px;
+    height: 52px;
+    border-radius: 20px;
+    position: relative;
+}
+
+.logInAPP span{
+    color: white;
+    position: absolute;
+    margin-top: 12px;
+    margin-left: 10px;
+    font-weight: 800;
+}
+.logInAPP img{
+    width: 20px;
+    height: 20px;
+    margin-left: -220px;
+    margin-top: 10px;
+    background-color: white;
+}
+
+.logInGoog{
+    background-color: white;
+    margin-left: 580px;
+    width: 400px;
+    height: 52px;
+    border-radius: 20px;
+    position: relative;
+}
+
+.logInGoog span{
+    color: grey;
+    position: absolute;
+    margin-top: 12px;
+    margin-left: 10px;
+    font-weight: 800;
+}
+.logInGoog img{
+    width: 20px;
+    height: 20px;
+    margin-left: -220px;
+    margin-top: 10px;
+    background-color: white;
+}
+.logInLine1{
+    width: 170px;
+    height: 1.5px;
+    background-color: grey;
+    position : absolute;
+    margin-left: 570px;
+    margin-top: 40px;
+}
+.logInLine2{
+    width: 170px;
+    height: 1.5px;
+    background-color: grey;
+    position : absolute;
+    margin-left: 800px;
+    margin-top: 40px;
+}
+.loginLine{
+    position: relative;
+}
+.loginLine .loginOr{
+    position: absolute;
+    margin-left: 760px;
+    margin-top: 30px;
+}
+
+.loginInfo .emailInfo{
+    margin-left: 580px;
+    margin-top: 70px;
+}
+.emailUser{
+    margin-left: 580px;
+    margin-top: 0;
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.passwordInfo{
+    margin-left: 580px;
+    margin-top: 20px;
+}
+.passwordUser{
+    margin-left: 580px;
+    margin-top: 0;
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+}
+.passwordForgot{
+    margin-left: 580px;
+    margin-top: 20px;
+}
+.loginGreen{
+    margin-left: 890px;
+    width: 105px;
+    height: 40px;
+    background-color: lightgreen;
+    color: black;
+    border-radius: 30px;
+}
+.bottomLine{
+    margin-top: 20px;
+    width: 400px;
+    height: 1px;
+    background-color: grey;
+    margin-left: 580px;
+}
+.noAccount h3{
+    margin-left: 680px;
+}
+.signUpNow{
+    margin-left: 570px;
+    width: 400px;
+    height: 60px;
+    background-color: white;
+    color: grey;
+    font-weight: 700;
+    border-radius: 40px;
 }
