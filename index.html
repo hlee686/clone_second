@@ -34,7 +34,12 @@
     </div>
     <div class="topBar">
         <div class="material-icons"><span>keyboard_arrow_left</span>&nbsp &nbsp<span>keyboard_arrow_right</span></div> 
-        <h2 class="signUp">Sign up</h2>
+        <h2 class="signUp" onClick="redirect()">Sign up</h2>
+        <script>
+            function redirect(){
+                window.location.replace('signUp.html');
+            }
+        </script>
         <button class="logIn">Log in</button>
         <div class="mainPart">
             <h2 class="focus">Focus</h2>
